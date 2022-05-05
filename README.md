@@ -1,7 +1,7 @@
 ![Intro Image](assets/Porsche.jpg)
 
 ### About me
-<hr></hr>
+
 Hello world 👋. I am Zacharias Zachariadis, a software engineering developer student based in Winnipeg, Canada.
 
 I am very passionate about technology and focused on making good, functional websites. I love making games 
