@@ -1,6 +1,6 @@
 ![Intro Image](assets/Porsche.jpg)
 
-### About me
+## About me
 
 Hello world 👋. I am Zacharias Zachariadis, a software engineering developer student based in Winnipeg, Canada.
 
@@ -10,7 +10,7 @@ and I am focused on making great websites and becoming a great developer
 My programming and learning expirience consists of: Javascript, Node, C#, Python, HTML and CSS. If you wanna know more about my expirience and journey through programming,
 you can contact me through any of my socials or via email.
 
-### Skills
+## Skills
 
 ![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=51be8d)
 ![](https://img.shields.io/badge/code-node-informational?style=for-the-badge&logo=javascript&logoColor=white&color=51be8d)
@@ -19,7 +19,7 @@ you can contact me through any of my socials or via email.
 ![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=51be8d)
 ![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=51be8d)
 
-### My Stats
+## My Stats
 
 <a href="https://github.com/Zack-Z23">
   <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=Zack-Z23&theme=vue&show_icons=true" alt="My GitHub stats" />
