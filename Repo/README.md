@@ -22,7 +22,7 @@ you can contact me through any of my socials or via email.
 ### My Stats
 
 <a href="https://github.com/Zack-Z23">
-  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=Zack-Z23&theme=vue&show_icons=true" alt="My GitHub stats" />
+  <img height="210px" align="center" src="https://github-readme-stats.vercel.app/api?username=Zack-Z23&theme=vue&show_icons=true" alt="My GitHub stats" />
 </a>
 <a href="https://github.com/Zack-Z23">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zack-Z23&theme=vue&hide=Ruby&show_icons=true&langs_count=4" alt="My 
