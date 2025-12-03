@@ -2,7 +2,7 @@
 
 ## About me
 
-Hello world 👋. I am Zacharias Zachariadis, a software engineering developer student based in Winnipeg, Canada.
+Hello world. I am Zacharias Zachariadis, a software engineering developer student based in Winnipeg, Canada.
 
 I am very passionate about technology and focused on making good, functional websites. I love making games 
 and I am focused on making great websites and becoming a great developer
