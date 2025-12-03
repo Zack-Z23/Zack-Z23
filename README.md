@@ -19,12 +19,4 @@ you can contact me through any of my socials or via email.
 ![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=51be8d)
 ![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=51be8d)
 
-## My Stats
 
-<a href="https://github.com/Zack-Z23">
-  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=Zack-Z23&theme=vue&show_icons=true" alt="My GitHub stats" />
-</a>
-<a href="https://github.com/Zack-Z23">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zack-Z23&theme=vue&hide=Ruby&show_icons=true&langs_count=4" alt="My 
-  GitHub stats"/>
-</a>
