@@ -2,21 +2,14 @@
 
 ## About me
 
-Hello world. I am Zacharias Zachariadis, a software engineering developer student based in Winnipeg, Canada.
+Hello world. I am Zacharias Zachariadis, a software engineering developer based in Winnipeg MB, Canada.
+I love working with technology. I'm driven to create software that makes a real difference.
 
-I am very passionate about technology and focused on making good, functional websites. I love making games 
-and I am focused on making great websites and becoming a great developer
+I am passionate about technology and software developing. I'm very focused on improving my skills so in the future I can become a well rounded software developer.
 
-My programming and learning expirience consists of: Javascript, Node, C#, Python, HTML and CSS. If you wanna know more about my expirience and journey through programming,
-you can contact me through any of my socials or via email.
+My experience includes working with JavaScript, Node.js, C, C++, C#, Java, Python, PHP, SQL, Ruby, Rust, Go, HTML, and CSS. I have developed projects to keep myself active.
 
-## Skills
+I take every opportunity to apply my coding expertise in any role I’m in, whether by automating repetitive tasks, improving existing systems, or building new tools to increase efficiency. I actively look for ways to solve problems with code, regardless of the position, and consistently aim to add technical value wherever I work.
 
-![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=51be8d)
-![](https://img.shields.io/badge/code-node-informational?style=for-the-badge&logo=javascript&logoColor=white&color=51be8d)
-![](https://img.shields.io/badge/code-c%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=51be8d)
-![](https://img.shields.io/badge/code-python-informational?style=for-the-badge&logo=python&logoColor=white&color=51be8d)
-![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=51be8d)
-![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=51be8d)
 
 
