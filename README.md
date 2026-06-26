@@ -1,4 +1,5 @@
-![Intro Image](assets/Porsche.jpg)
+!<img width="474" height="313" alt="image" src="https://github.com/user-attachments/assets/f9dfc019-6315-4ee1-add9-3dea1136b5a5" />
+
 
 ## About me
 
