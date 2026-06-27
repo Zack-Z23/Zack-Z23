@@ -36,7 +36,7 @@ Software Developer based in Winnipeg, MB. I have hands-on experience across the 
 | [Website Analysis Chatbot](https://github.com/Zack-Z23/Website-Analysis-Chatbot) | AI-powered chatbot that analyzes any website's content and answers questions about it | React, Python, JavaScript |
 | [How2Games](https://github.com/Bearium-BB/How2Games) | Full-stack game guide platform with layered .NET architecture and unit test coverage | C#, .NET, HTML, CSS, JS |
 | [Face Detection App](https://github.com/Zack-Z23/Face-Detection-) | Real-time face detection from webcam using OpenCV and Haar Cascade | Python, OpenCV |
-| [Sudoku Solver](https://github.com/Zack-Z23/Sudoku-sovler) | Sudoku solving algorithm implemented in C | C |
+| [Sudoku-solving-algorithm-implemented-in-C](https://github.com/Zack-Z23/Sudoku-sovler) | C |
  
 ---
  
