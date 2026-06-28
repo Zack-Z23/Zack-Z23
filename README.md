@@ -6,7 +6,7 @@ Software Developer based in Winnipeg, MB. I have hands-on experience across the 
  
 -  B.Sc. Computer Science & Statistics — University of Manitoba *(in progress)*
 -  Software Developer Diploma — MITT
--  Previously: Junior Analyst @ Government of Manitoba | Software Developer Intern @ TickTockTech
+-  Previously: Junior Analyst at the Government of Manitoba | Software Developer Intern at the TickTockTech
 
 ---
  
