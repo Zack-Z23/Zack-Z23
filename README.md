@@ -41,8 +41,6 @@ Software Developer based in Winnipeg, MB. I have hands-on experience across the 
 ---
  
 ## GitHub Stats
- 
-![Zack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zack-Z23&show_icons=true&theme=github_dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zack-Z23&layout=compact&theme=github_dark&hide_border=true)
  
 ---
